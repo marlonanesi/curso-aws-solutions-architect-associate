@@ -1,0 +1,126 @@
+# ==========================================
+# GITIGNORE PARA CURSO AWS SOLUTIONS ARCHITECT
+# ==========================================
+# Versiona apenas arquivos PDF, ignora o resto
+
+# ==========================================
+# PYTHON CACHE E AMBIENTE VIRTUAL
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Ambientes virtuais Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# ==========================================
+# ARQUIVOS DE APRESENTACAO E DOCUMENTACAO
+# ==========================================
+# Ignora PowerPoint
+*.pptx
+*.ppt
+
+# Ignora Markdown
+*.md
+
+# ==========================================
+# ARQUIVOS DE SISTEMA E TEMPORARIOS
+# ==========================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Linux
+*~
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+
+# ==========================================
+# AWS E CREDENCIAIS
+# ==========================================
+# Credenciais AWS (segurança)
+.aws/credentials
+.aws/config
+*.pem
+*.key
+
+# ==========================================
+# IDEs E EDITORES
+# ==========================================
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# MANTER APENAS PDFS
+# ==========================================
+# Este gitignore está configurado para versionar apenas arquivos PDF
+# Todos os outros tipos de arquivo são ignorados por padrão

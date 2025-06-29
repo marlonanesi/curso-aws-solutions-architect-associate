@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+jinja2
+python-dotenv
+openai==0.28
+markdown
+aiosqlite
+itsdangerous
+python-multipart
+requests

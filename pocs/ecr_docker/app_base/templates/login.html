@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login - Super Quiz AWS</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center h-screen">
+  <form method="post" action="/login" class="bg-white p-6 rounded shadow w-full max-w-sm">
+    <h2 class="text-xl font-semibold mb-4 text-center">🔐 Login</h2>
+    <label class="block mb-2">Usuário</label>
+    <input type="text" name="usuario" class="w-full p-2 border rounded mb-4" required>
+
+    <label class="block mb-2">Senha</label>
+    <input type="password" name="senha" class="w-full p-2 border rounded mb-4" required>
+
+    <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded w-full hover:bg-blue-600">Entrar</button>
+  </form>
+</body>
+</html>

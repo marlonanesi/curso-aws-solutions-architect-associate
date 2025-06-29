@@ -1,0 +1,16 @@
+{
+    "sorte_do_dia": "Hoje o universo conspira a seu favor! 🌟🚀",
+    "perguntas": [
+      {
+        "pergunta": "O Amazon S3 permite criptografia automática em repouso apenas com SSE-S3 ativado?",
+        "resposta_correta": "Falso",
+        "explicacao": "A criptografia automática requer configuração explícita via SSE-S3, SSE-KMS ou regras de bucket."
+      },
+      {
+        "pergunta": "O Auto Scaling pode lançar instâncias em múltiplas AZs automaticamente?",
+        "resposta_correta": "Verdadeiro",
+        "explicacao": "Sim, se o grupo de Auto Scaling estiver configurado com múltiplas subnets/AZs."
+      }
+    ]
+  }
+  

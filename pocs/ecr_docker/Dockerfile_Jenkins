@@ -1,0 +1,18 @@
+FROM jenkins/jenkins:lts
+
+USER root
+
+# Instalar AWS CLI e Docker CLI
+RUN apt-get update && \
+    apt-get install -y awscli docker.io && \
+    apt-get clean
+
+RUN apt-get install -y unzip curl git
+
+USER jenkins
+
+# Expor as portas padrão do Jenkins
+EXPOSE 8080 50000
+
+# Jenkins já traz o entrypoint padrão
+CMD ["/usr/bin/tini", "--", "/usr/local/bin/jenkins.sh"]
