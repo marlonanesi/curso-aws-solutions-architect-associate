@@ -58,6 +58,7 @@ poetry.lock
 
 # Ignora Markdown
 *.md
+!README.md
 
 # ==========================================
 # ARQUIVOS DE SISTEMA E TEMPORARIOS
