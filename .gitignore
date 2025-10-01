@@ -59,6 +59,7 @@ poetry.lock
 # Ignora Markdown
 *.md
 !README.md
+!lab_visao_geral.md
 
 # ==========================================
 # ARQUIVOS DE SISTEMA E TEMPORARIOS
@@ -100,6 +101,7 @@ Icon?
 .aws/config
 *.pem
 *.key
+auth-mfa-pessoal.bat
 
 # ==========================================
 # IDEs E EDITORES

@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {"name": "lab-thumbnail-s3-lambda-marlonanesi"},
+        "object": {"key": "uploads/arara.jpg"}
+      }
+    }
+  ]
+}
