@@ -56,11 +56,6 @@ poetry.lock
 *.pptx
 *.ppt
 
-# Ignora Markdown
-*.md
-!README.md
-!lab_visao_geral.md
-
 # ==========================================
 # ARQUIVOS DE SISTEMA E TEMPORARIOS
 # ==========================================
