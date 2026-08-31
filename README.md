@@ -8,8 +8,11 @@ Aqui você encontrará **materiais organizados por tópicos**, **laboratórios p
 ---
 
 🎓 **👉 Já conhece o curso completo com +50 laboratórios?**  
-Quer ver o curso completo? Segue link com desconto do instrutor:  
-🔗 [Certificação AWS Solutions Architect Associate (SAA-C03) – Curso Completo](https://cloudforall.com.br/saa.html)
+**Curso completo na Udemy com nosso cupom mensal dinâmico:**
+https://cloudforall.com.br/redirect/aws-solutions-architect-associate-saa-c03/
+
+**Curso de simulados completo na Udemy com nosso cupom mensal dinâmico** (totalmente atualizado em set/2026, explicações, dicas por opção de resposta e diagramas e anexos visuais para cada questão):
+https://cloudforall.com.br/redirect/aws-solutions-architect-associate-saa-c03-simulados/
 
 🌐 Acesse: [CloudForAll.com.br](https://cloudforall.com.br) para atualizações, conteúdos gratuitos de estudo e acesso aos nossos cursos sempre com valor promocional.
 
